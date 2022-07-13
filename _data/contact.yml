@@ -1,0 +1,10 @@
+location:
+  address: Pier Rd, Mordialloc VIC 3195
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50297.82629524158!2d145.01972103125!3d-38.009459699999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad66d9bb6f3ef89%3A0xe5539c1f91928ebf!2sTour%20De%20Cafe!5e0!3m2!1sen!2sau!4v1657692554342!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/tourdecafemordialloc/
+  - platform: phone
+    link: tel:0395874414
